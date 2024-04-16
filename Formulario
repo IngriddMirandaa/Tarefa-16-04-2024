@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/style.css">
+    
+    <title>Conhecimento nas religiões de Origem Africana!</title>
+</head>
+<body>
+    <div id="oldOrNew">
+        <h2>Ẹ káàbọ̀ Ọjọ́ Ajé, Tudo bem?</h2>
+        <br/>
+        <h3>Mas antes de dar o primeiro passo para o conhecimento, queremos saber mais sobre você!<br/>
+        Preencha os dados abaixo para que possamos saber melhor quem é você!
+        </h3>
+    <div id="form">
+        <form action="" method="post" enctype="multipart/form-data">
+            <fieldset>
+                <legend> PREENCHA OS SEGUINTES DADOS:</legend>
+                    <label>NOME COMPLETO:</label>
+                    <input type="text" name="nome" id="nome" placeholder="Ingrid Miranda Dos Santos" /><br/><br/>
+                    
+                    <label>IDADE:</label>
+                    <input type="number" name="idade" id="idade" placeholder="019" /><br/><br/>
+
+                    <label>E-MAIL:</label>
+                    <input type="email" name="email" id="email" placeholder="MirandaSantos016@gmail.com" /><br/><br/>
+
+                    <label>RELIGIÃO:</label>
+                    <input type="text" name="religião" id="religiao" /><br/><br/>
+
+                    <label>Sua resposta acima foi Umbanda, Candomblé ou Quimbanda?</label>
+                    <input type="text" name="check" id="check" placeholder="Ex: Sim ou Não"/>
+            </fieldset>
+        </form>
+    </div>
+        <br/><br/>
+        <h3>Vamos escolher qual religião você gostaria de saber mais:</h3>
+            
+            <div class="buttonUmbanda">
+                <button><a href="Umbanda.html">Conhecer sobre a Umbanda</a></button>
+            </div>
+                <div class="ButtonCandomblé">
+            <button><a href="Candomblé.html">Conhecer sobre o Candomblé</a></button>
+            
+            <div class="ButtonQuimbanda">
+                <button><a href="Quimbanda.html">Conhecer sobre a Quimbanda</a></button>
+            
+                </div>
+                <div class="fecharProgram">
+                    <button><a href="result.html">Finalizar</a></button>
+                </div>
+            
+    </div>
+
+    
+</body>
+</html>
