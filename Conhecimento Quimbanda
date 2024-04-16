@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/style.css">
+    
+<title>Quimbanda</title>
+</head>
+<body>
+    <h3> Ẹ káàbọ̀ Ọjọ́ Ajé! Que bom ver você por aqui
+        estou muito animada para te falar mais sobre o Quimbanda
+        e como ela é uma religião incrível?
+    </h3>
+    <form action="" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend><b>Você escolheu saber mais sobre a religião Quimbanda, Muito Axé.</b></legend>
+            <label><b>Como surgiu a Quimbanda?</b></label><br/><br/>
+            <label> tem origem na língua Mbundu, e dentro do Candomblé de Angola designa, desde o período pré-colonial, um rito próprio, cujo sacerdote que o pratica é chamado de "Tata Kimbanda".</br>
+                    
+            <label><b>O que são os Orixás na Quimbanda? Quais são os Orixás?</b></label><br/><br/>
+            Os orixás são entidades que representam a energia e a força da natureza.<br/>
+            Os orixás na Quimbanda: São representados por Exus e PombaGiras<br/> 
+            
+                    
+            <label><b>O que é Exu e PombaGiras?</b></label><br/><br/>
+               Exu: É uma entidade muito forte e de muito poder. Só um Exu consegue desmanchar um mal feito por espírito sem luz, somente eles tem esse dom.  
+               PombaGira: Representa o estereótipo da prostituta ou de mulheres de conduta moral condenável e sua se- xualidade se manifesta, sobretudo, no nível da linguagem.     
+            
+               <label><b>Como iniciar na religião na Quimbanda?</b></label><br/><br/>
+               1- Estude sobre a religião Quimbanda.<br/>
+               2- Frequente uma casa de Quimbanda.<br/>
+               3- Conheça o diregente da casa, crie uma afinidade.<br/>
+               4- Comece a desenvolver a mediunidade<br/>
+
+           
+                Espero ter ajudado, e que você tenha uma boa experiencia na Quimbanda!<br/>
+                    
+                    
+            </label>
+
+        </fieldset>
+    </form><br/>
+    <div class="buttonQuimbanda">
+        <button><a href="index.html">Voltar para a tela inicial</a></button>
+    </div>
+
+
+</body>
+</html>
