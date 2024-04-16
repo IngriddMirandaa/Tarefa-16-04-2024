@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/style.css">
+    
+    <title>Umbanda</title>
+</head>
+<body>
+    <h3> Ẹ káàbọ̀ Ọjọ́ Ajé! Que bom ver você por aqui
+        estou muito animada para te falar mais sobre a Umbanda
+        e como ela é uma religião incrível?
+    </h3>
+    <form action="" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend><b>Você escolheu saber mais sobre a religiao Umbanda, Muito Axé.</b></legend>
+            <label><b>Como surgiu a Umbanda?</b></label><br/><br/>
+            <label>A Umbanda é uma religião brasileira, que sintetiza vários elementos das religiões africanas e cristãs, porém sem ser definida por eles. Formada no início do século XX no sudeste do Brasil, a partir da síntese com movimentos religiosos como o Candomblé, o Catolicismo e o Espiritismo.</br>
+                    
+            <label><b>O que são os Orixás na Umbanda? Quais são os Orixás?</b></label><br/><br/>
+            Os orixás na mitologia africana são, em geral, divindades que ordenavam o mundo e estavam presentes, de maneira imanente, nas forças da natureza.<br/>
+            São associados aos elementos da natureza e ao desenvolvimento da civilização humana. Várias atribuições são dadas a eles, desde cuidar das crianças, das comunidades que o cultuam e até do mundo como um todo. Umbanda e candomblé são religiões brasileiras com visões diferentes sobre os orixás.<br/> 
+            Oxalá, Ogum, Oxossi, Xangô, Iemanjá, Oxum, Iansã, Nana Buruquê e Obaluaê/Omulú<br/> 
+                    
+            <label><b>Agora que você já sabe o que são os Orixás, agora vamos falar das Entidades:</b></label><br/><br/>
+                    As entidades são espíritos descencarnadosAp de ancetrais que podem ser incorporados por médiuns durante os cultos nos terreiros de Umbanda<br/>
+                    As entidades atuam como concelheiros em várias áreas da vida do medium e guiam os adaptos a religião <br/>    
+                    
+            <label><b>Como iniciar na religião da Umbanda?</b></label><br/><br/>
+                   1- Estude primeiro sobre a Umbanda, conheça os fundamentos, os rituais e as entidades da religião.<br/>
+                   2- Encontre um terreiro para que você possa ver de perto como é a religião<br/>
+                   3- Converse com uma Mãe ou Pai de Santo, busque orientação esperitual com um líder religiosa da Umbanda, para dar início na caminhada<br/>
+                   4- Participe das giras (são as reuniões religiosas da Umbanda) onde ocorre os trabalhos espirituais.<br/>
+                   5- Desenvolva sua mediunidade: A mediunidade é uma habilidade importante, busque desenvolve-lá através de práricas espirituais e orientações correta.<br/>
+                   6- Respeite as tradições da Umbanda. A Umbanda possui suas próprias tradições. Respeite e siga as orientações dos lideres religiosos e dos mais experientes na religião.<br/> 
+                    
+            <label><b>Quais são as linhas da Umbanda e como cada uma trabalha?</b></label><br/><br/>
+                    As linhas da Umbanda são: Caboclos, Pretos-Velhos, Crianças, Boiadeiros, Baianos, Marinheiros, Ciganos, Exu, PombaGiras e Exu-Mirins e Malandros<br/>
+                    1-Caboclos: Trabalham em prol da evolução esperitual de todos, através da caridade.<br/>
+                    2-Pretos-Velhos: Trabalham na questçao da saúde, seja física ou emocional, assim como para encontrar emprego e unir fámilias<br/>
+                    3-Crianças: Trabalham em brincadeiras e divertimentos.<br/>
+                    4-Boiadeiros: Trabalham na função de recolher espíritos obssessores, quiumbas e também atuar na limpeza energética nos terreiros.<br/>
+                    5-Baianos: São entidades que trabalham em giras próprias  ou junto com as falanges dos Boiadeiros e não incomum em trabalhos de esquerda, junto a Exus e Pombagiras.<br/>
+                    6-Marinheiros:Trabalham na linha das águas, de Iemanjá, orixá que representa a mãe universal na Umbanda, a rainha dos mares.<br/>
+                    7-Ciganos:Trabalham visando o processo financeiro e resolver causas amorosas.<br/>
+                    8-Exu, PombaGiras e Exu-Mirins: Essas entidades trabalham em desmanches de demandas e proteção. Essas entidades são concelheiros, protetores, orientadores.<br/>
+                    9-Malandros: Trabalham são grandes ordenadores e direcionadores da fé, da fé em si mesmo, da fé diante das adversidades, da fé em acreditar que independente do que aconteça a vida vai melhorar, os problemas ficarão pra trás e tudo vai melhorar. <br/>
+                    
+                    Espero ter ajudado, e que você tenha uma boa experiência com a Umbanda.<br/>
+                    
+                    
+            </label>
+
+        </fieldset>
+    </form><br/>
+    <div class="buttonUmbanda">
+        <button><a href="index.html">Voltar para a tela inicial</a></button>
+    </div>
+
+
+</body>
+</html>
