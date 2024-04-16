@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style/style.css">
+    
+    <title>Candomblé</title>
+</head>
+<body>
+    <h3> Ẹ káàbọ̀ Ọjọ́ Ajé! Que bom ver você por aqui
+        estou muito animada para te falar mais sobre o Candomblé
+        e como ela é uma religião incrível?
+    </h3>
+    <form action="" method="post" enctype="multipart/form-data">
+        <fieldset>
+            <legend><b>Você escolheu saber mais sobre a religião Candomblé, Muito Axé.</b></legend>
+            <label><b>Como surgiu o Candomblé?</b></label><br/><br/>
+            <label>Assim, apesar de ter nascido na Bahia, no século XIX, o candomblé foi formado a partir de tradições religiosas africanas de povos iorubás</br>
+                    
+            <label><b>O que são os Orixás no Candomblé? Quais são os Orixás?</b></label><br/><br/>
+            Os orixás são entidades que representam a energia e a força da natureza.<br/>
+            Os orixás no candomblé são: Exú, Ogun, Omulu, Xapanã ou Abaluaiê, Xangô, Yasan, Oxossi, Nanan, Yemanjá, Oxum, Oxunmarê, Ossain e Oxalá.<br/> 
+            
+                    
+            <label><b>Agora que você já sabe o que são os Orixás, agora vamos falar das Entidades:</b></label><br/><br/>
+                    As entidades são consideradas espíritos com características distintas, atuando como guias e mensageiros entre os planos espiritual e material. Da alegria dos Erês às sabedorias dos Pretos-velhos, cada entidade tem um propósito, oferecendo orientação e cura aos praticantes.<br/>
+                    As entidades atuam como concelheiros em várias áreas da vida do medium e guiam os adaptos a religião <br/>    
+                    
+            <label><b>Como iniciar na religião do Candomblé?</b></label><br/><br/>
+            Ingressar no candomblé é tarefa que requer paciência, determinação e zero mimimi. Para se tornar filho de uma casa, o caminho é longo e cheio de desafios. 
+            Uma prova de resistência incluídas muitas limitações, grandes doses de esforço e o acesso a ensinamentos secretos, numa trajetória que se estende por meses, podendo chegar a um ano. De um modo geral, as pessoas não pedem para<br/>
+            Ingressar no candomblé: são convocadas. Em alguns casos, a mãe de santo, ao jogar búzios, recebe a mensagem de que aquele indivíduo precisa participar da religião. 
+            Porém o jeito mais comum desse recado ser dado é quando o cidadão “bola no santo”.<br/>
+
+           <label><b>O que é Bola no Santo? Quando isso acontece?</b></label><br/><br/>
+                    O ato de bola no santo é uma das primeiros manifestaçãoes de um Orixás em uma pessoa, ainda no estado bruto, ou seja, que ainda não passou pela inicialização.<br/>
+                    Que acontece de forma abrupta e sem qualquer tipo de previsão ou apontamento de fato.<br/>
+                    Normalmente é algo que acontece durante a festa de Orixás, não se restrigindo a só acontecer nas casas de santo, podendo acontecer em alguém lugar, a qualquer momento da vida da pessoa.<br/>
+                    É algo comum, ao se acentar um Orixá, uma pessoa ser vítima de tremores e sobreassaltos caindo no chão incociente, aparecente incociente ou se debatendo.<br/>
+                    
+                    Espero ter ajudado, e que você tenha uma boa experiencia no Candomblé!<br/>
+                    
+                    
+            </label>
+
+        </fieldset>
+    </form><br/>
+    <div class="buttonCandomblé">
+        <button><a href="index.html">Voltar para a tela inicial</a></button>
+    </div>
+
+
+</body>
+</html>
